@@ -4,8 +4,9 @@ description: >-
   在 Linux 服务器上安装、启动并验证 OceanBase seekdb 单机实例，提取 run/telemetry.json
   中的部署 UUID，并排查启动失败、2881 端口不通、遥测文件缺失等问题。当用户提到 seekdb
   安装、部署、重装、启动、连接、部署 UUID 或遥测 ID 时使用。
-version: 1.0.0
 license: Apache-2.0
+metadata:
+  version: 1.0.0
 ---
 
 # seekdb 部署与验证
